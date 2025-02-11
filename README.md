@@ -26,22 +26,22 @@ A modern expense tracking application built with React, Redux Toolkit, and Tailw
 ## Installation
 
 1. Clone the repository:
-\`\`\`bash
+\`\`\`
 git clone https://github.com/mahmoud-dev97/expense-tracker.git
 \`\`\`
 
 2. Navigate to the project directory:
-\`\`\`bash
+\`\`\`
 cd expense-tracker
 \`\`\`
 
 3. Install dependencies:
-\`\`\`bash
+\`\`\`
 npm install
 \`\`\`
 
 4. Start the development server:
-\`\`\`bash
+\`\`\`
 npm run dev
 \`\`\`
 
